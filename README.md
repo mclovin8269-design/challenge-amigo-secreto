@@ -25,7 +25,7 @@ Este proyecto es una pequeña aplicación en **JavaScript**, **HTML** y **CSS** 
 
 ## 📂 Estructura del proyecto
 /proyecto-sorteo-amigos
-│── index.html # Contiene la estructura de la página
-│── style.css # (Opcional) Estilos para embellecer la app
-│── script.js # Lógica en JavaScript
-│── README.md # Este archivo
+- │── index.html # Contiene la estructura de la página
+- │── style.css # (Opcional) Estilos para embellecer la app
+- │── script.js # Lógica en JavaScript
+- │── README.md # Este archivo
